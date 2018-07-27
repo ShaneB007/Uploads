@@ -1,0 +1,56 @@
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+IVs: 0 Atk  
+- Leech Seed  
+- Spikes  
+- Stealth Rock  
+- Thunder Wave  
+
+Sigilyph @ Leftovers  
+Ability: Magic Guard  
+EVs: 4 HP / 252 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Roost  
+- Stored Power  
+- Cosmic Power  
+- Toxic  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 4 HP / 252 Def / 252 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Cosmic Power  
+- Soft-Boiled  
+- Toxic  
+- Stored Power  
+
+Jellicent @ Leftovers  
+Ability: Cursed Body  
+EVs: 252 HP / 252 Def  
+Calm Nature  
+IVs: 0 Atk  
+- Hex  
+- Recover  
+- Toxic  
+- Surf  
+
+Tyranitar @ Tyranitarite  
+Ability: Sand Stream  
+EVs: 252 HP / 4 Def / 252 SpD  
+Impish Nature  
+- Crunch  
+- Earthquake  
+- Stone Edge  
+- Thunder Punch  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Roost  
+- Stealth Rock  
+- Toxic  
+- Earthquake  
+
